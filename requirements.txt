@@ -13,5 +13,3 @@ faiss-cpu
 wikipedia
 sentence-transformers
 transformers
-
-API=AIzaSyD8iDfft7hSWsWhPZ7d71ScqSTfJAFifdE
