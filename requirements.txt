@@ -1,0 +1,17 @@
+streamlit
+langchain
+faiss-cpu 
+langchain-core
+langchain-google-genai 
+PyPDF2
+google-ai-generativelanguage
+langchain-community
+pandas
+
+
+faiss-cpu
+wikipedia
+sentence-transformers
+transformers
+
+API=AIzaSyD8iDfft7hSWsWhPZ7d71ScqSTfJAFifdE
